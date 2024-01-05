@@ -1,6 +1,6 @@
 # A simple weather app
 
-## Visit the page here: 
+## Visit the page here: https://nickgv.github.io/weather-app/
 
 ## Using the Weather api: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjUoIizjceDAxWmk2oFHSIsBYAQFnoECBMQAQ&url=https%3A%2F%2Fopenweathermap.org%2Fapi&usg=AOvVaw1SEmG6hjVwGocnSh0eZnFM&opi=89978449
 
